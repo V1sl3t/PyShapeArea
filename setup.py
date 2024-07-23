@@ -14,15 +14,13 @@ setup(
   description='Module for calculating the area of shapes',
   long_description=readme(),
   long_description_content_type='text/markdown',
-  url='your_url',
+  url='https://github.com/V1sl3t/PyShapeArea',
   packages=find_packages(),
   classifiers=[
-    'Programming Language :: Python :: 3.11',
-    'License :: OSI Approved :: MIT License',
-    'Operating System :: OS Independent'
+    'Programming Language :: Python :: 3.11.9',
   ],
   project_urls={
-    'GitHub': 'V1sl3t'
+    'GitHub': 'https://github.com/V1sl3t'
   },
   python_requires='>=3.6'
 )
