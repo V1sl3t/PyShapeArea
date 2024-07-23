@@ -17,7 +17,7 @@ setup(
   url='https://github.com/V1sl3t/PyShapeArea',
   packages=find_packages(),
   classifiers=[
-    'Programming Language :: Python :: 3.11.9',
+    'Programming Language :: Python :: 3.11',
   ],
   project_urls={
     'GitHub': 'https://github.com/V1sl3t'
