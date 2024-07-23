@@ -18,4 +18,5 @@ Checking, if a triangle is right triangle - `print(right_triangle(3,4,5))`
 
 
 ## Developer ##
-[PyPI](https://pypi.org/project/pyshapearea/0.0.1/)
+My library on [PyPI](https://pypi.org/project/pyshapearea/0.0.1/)
+V1sl3t
